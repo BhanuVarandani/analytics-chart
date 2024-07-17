@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.box{
+    height: 95%;
+    width: 83%;
+    background-color: black;
+    position: absolute;
+    left: 7%;
+    margin-top: 1%;
+}
+h1{
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    margin-top: 1%;
+    left: 40%;
+}
+.img1{
+    height: 46%;
+    width: 45%;
+    position: absolute;
+    margin-top: 5%;
+    left: 1%;
+    object-fit: cover;
+    object-position: center;
+
+}
+.img2{
+    height: 46%;
+    width: 45%;
+    position: absolute;
+    margin-top: 5%;
+    left: 50%;
+    object-fit: cover;
+    object-position: center;
+
+}
+.img3{
+    height: 46%;
+    width: 45%;
+    position: absolute;
+    margin-top: 28%;
+    left: 1%;
+    object-fit: cover;
+    object-position: center;
+
+}
+.img4{
+    height: 46%;
+    width: 45%;
+    position: absolute;
+    margin-top: 28%;
+    left: 50%;
+    object-fit: cover;
+    object-position: center;
+
+
+}
+.one{
+    color: red;
+    position: absolute;
+    margin-top: 6%;
+    left: 20%;
+}
+.two{
+    color: red;
+    position: absolute;
+    margin-top: 6%;
+    left: 70%;
+}
+
+.three{
+    color: red;
+    position: absolute;
+    margin-top: 29%;
+    left: 20%;
+}
+.four{
+    color: red;
+    position: absolute;
+    margin-top: 29%;
+    left: 70%;
+}
